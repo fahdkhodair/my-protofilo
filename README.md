@@ -21,7 +21,7 @@ A frontend application built with React for managing employees.
 
 ---
 
-### 2. Saraha App (Node.js, Express.js, MySQL)
+### 2. Saraha App (Node.js, Express.js, NoSQL)
 A backend REST API application for anonymous messaging.
 
 **Features:**
