@@ -37,13 +37,56 @@ A backend REST API application for anonymous messaging.
 
 ---
 
-### 3. HTML Projects
-Static HTML projects demonstrating design and layout skills.
+### 3. roject Name: Easy Shop App – Online Shop REST API
 
-**Features:**
-- Responsive web pages
-- Semantic HTML structure
-- CSS styling
+Description:
+A backend application built with Node.js and Express.js for managing an online store. It demonstrates CRUD operations, secure authentication, and database management using MySQL.
+
+Features:
+
+User registration & login with JWT authentication
+
+Product CRUD operations (Add, Update, Delete, View Products)
+
+Order management (Create, Update, View Orders)
+
+Input validation and error handling
+
+MySQL database integration for reliable data storage
+
+RESTful API endpoints ready for frontend integration
+
+Tech Stack:
+
+Backend: Node.js, Express.js
+
+Database: MySQL (SQL)
+
+Authentication: JWT
+
+Tools: Postman for testing APIs
+
+How to Run / Demo:
+
+Clone the repository: git clone <repo-link>
+
+Install dependencies: npm install
+
+Configure .env file with MySQL connection and JWT secret
+
+Run server: npm start
+
+Test API endpoints using Postman
+
+Why this project stands out:
+
+Demonstrates backend development skills with relational database
+
+Secure authentication implementation
+
+Ready for integration with any frontend framework (React, Angular, Vue)
+
+Ideal example for clients needing e-commerce backend solutions
 
 ---
 
